@@ -1,0 +1,7 @@
+data_connection.py
+database_informations.py
+data_connection
+resources
+.env
+__pycache__
+*.pdf
